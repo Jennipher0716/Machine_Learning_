@@ -1,5 +1,4 @@
-
-Own, Various Machine Learning modelling Projects with; 
+Various Machine Learning modelling Projects with; 
 - Random Forest
 - Logistic Regression
 - KNN
